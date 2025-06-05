@@ -21,10 +21,11 @@
 
 
 #  Example OUTPUT:       
-Annualized Return (%)  Annualized Volatility (%)  Return/Risk Ratio Recommendation
- AAPL                   12.45                      18.67                0.67           Hold
- MSFT                   15.32                      19.85                0.77            Buy
- TSLA                    8.10                      22.45                0.36           Sell
+| Ticker | Annualized Return (%) | Annualized Volatility (%) | Return/Risk Ratio | Recommendation |
+|--------|------------------------|-----------------------------|--------------------|----------------|
+| AAPL   | 12.45                  | 18.67                       | 0.67               | Hold           |
+| MSFT   | 15.32                  | 19.85                       | 0.77               | Buy            |
+| TSLA   | 8.10                   | 22.45                       | 0.36               | Sell           |
 
 ## === GPT Commentary ===
 AAPL: Expected return of 12.45%, volatility of 18.67%. Recommendation: Hold.
