@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import random
 
-# Simulate stock price data for 5 stocks over 4 months
+#Simulate stock price data for 5 stocks over 4 months
 def simulate_stock_prices(n_stocks=5, n_days=120):
     tickers = ['AAPL', 'MSFT', 'GOOGL', 'AMZN', 'TSLA'][:n_stocks]
     prices = {
