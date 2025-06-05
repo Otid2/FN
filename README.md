@@ -27,7 +27,7 @@
 | MSFT   | 15.32                  | 19.85                       | 0.77               | Buy            |
 | TSLA   | 8.10                   | 22.45                       | 0.36               | Sell           |
 
-## === GPT Commentary ===
+## GPT Commentary
 AAPL: Expected return of 12.45%, volatility of 18.67%. Recommendation: Hold.
 MSFT: Expected return of 15.32%, volatility of 19.85%. Recommendation: Buy.
 TSLA: Expected return of 8.10%, volatility of 22.45%. Recommendation: Sell.
